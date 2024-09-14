@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Raja Anthonysamy
 
 Data Scientist
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif">
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/9f/06/d8/9f06d8ffd5b1f6cb9b4a913fdcab0cc6.gif">
 
 - 👯 I will collaborate on ML/AI projects
 - 💬 Ask me about Tech
