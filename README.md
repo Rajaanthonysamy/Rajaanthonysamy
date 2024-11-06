@@ -25,8 +25,7 @@ Data Scientist
 ###  Accomplishments
 
 ##### HACKATHON WINNER CERTIFICATE
-
-<img height="50" width="50" src="https://github.com/Rajaanthonysamy/URLS/blob/main/hacakthon.jpg"/>
+<img height="50" width="50" src="https://github.com/Rajaanthonysamy/URLS/blob/main/Raja%20A%20(839491)%20-%20Winner.jpg"/>      <img height="50" width="50" src="https://github.com/Rajaanthonysamy/URLS/blob/main/hacakthon.jpg"/>
 
 ###  Certification
 
