@@ -26,4 +26,14 @@ Data Scientist
 
 <img height="50" width="50" src="https://github.com/Rajaanthonysamy/URLS/blob/main/hacakthon.jpg"/>
 
+###  Certification
+
+<img height="50" width="50" src="https://github.com/Rajaanthonysamy/URLS/blob/main/python_page-0001.jpg"/>
+<img height="50" width="50" src="https://github.com/Rajaanthonysamy/URLS/blob/main/Sql_page-0001.jpg"/>
+<img height="50" width="50" src="https://github.com/Rajaanthonysamy/URLS/blob/main/DataScience_page-0001.jpg"/>
+
+
+
+
+
 
