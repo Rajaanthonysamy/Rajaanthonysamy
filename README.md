@@ -36,12 +36,3 @@ Data Scientist
 Health Insurance Premium Price Predictor https://mlhealthinsurancepremium.streamlit.app/
 
 Finance Credit Risk https://financecreditrisk.streamlit.app/
-
-
-
-
-
-
-
-
-
