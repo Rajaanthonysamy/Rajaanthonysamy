@@ -51,7 +51,7 @@ Tamil Nadu, India • Pronouns: *Techie*
 |--------|-------------|------|
 | **Health Insurance Premium Predictor** | Predicts & explains health insurance pricing | [![Live Demo](https://img.shields.io/badge/Streamlit-App-green)](https://mlhealthinsurancepremium.streamlit.app/) |
 | **Finance Credit Risk Assessment** | Evaluates credit risk using ML & NLP | [![Live Demo](https://img.shields.io/badge/Streamlit-App-green)](https://financecreditrisk.streamlit.app/) |
-| **Retail Insight Analysis** | Analysing the Retails data | [![Live Demo](https://img.shields.io/badge/Streamlit-App-green)]([https://financecreditrisk.streamlit.app/](https://rajaanthonysamy-retail-insights-assistant-app-8uqlcn.streamlit.app)) |
+| **Retail Insight Analysis** | Analysing the Retails data | [![Live Demo](https://img.shields.io/badge/Streamlit-App-green)](https://rajaanthonysamy-retail-insights-assistant-app-8uqlcn.streamlit.app) |
 
 ---
 
